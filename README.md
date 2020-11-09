@@ -3,6 +3,7 @@
 These projects are based out of the data from 2 Kaggle challenges and were done as a part of course projects.
 
 Kaggle links:
+
 https://www.kaggle.com/c/competitive-data-science-predict-future-sales/overview 
 
 https://www.kaggle.com/c/tmdb-box-office-prediction/overview
