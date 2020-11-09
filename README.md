@@ -12,4 +12,8 @@ These notebooks are not focussed towards building the best prediction model to w
 
 Please use https://nbviewer.jupyter.org/ to view the notebooks in this repository.
 
+The pdf files are the pdf versions of the respective notebooks. 
+
+The python files are the Colab converted python versions of the respective notebooks.
+
 
